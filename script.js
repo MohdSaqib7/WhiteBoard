@@ -1,5 +1,4 @@
 let canvas = document.querySelector("#canvas");
-
 let { top : canvasTop } = canvas.getBoundingClientRect();
 
 canvas.width = window.innerWidth;

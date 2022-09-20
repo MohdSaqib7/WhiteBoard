@@ -1,7 +1,6 @@
 let pencil = document.querySelector("#pencil");
 let eraser = document.querySelector("#eraser");
 
-
 let pencilOptions = pencil.querySelector(".tool-options");
 let eraserOptions = eraser.querySelector(".tool-options");
 
